@@ -44,7 +44,7 @@ Operational efficiency analysis focused on process timing and performance optimi
 - Dashboard optimization  
 - Business decision support  
 
-👉 [View Project](projects/operation-analysis.html)
+👉 [View Project](projects/operation-analysis.md)
 
 ---
 
