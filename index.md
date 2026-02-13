@@ -31,7 +31,7 @@ Business case focused on sales performance, profitability, and category analysis
 - Power BI dashboard development  
 - KPI analysis and business recommendations  
 
-👉 [View Project](projects/retail-kpi.html)
+👉 [View Project](projects/retail-kpi.md)
 
 ---
 
