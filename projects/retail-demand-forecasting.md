@@ -36,4 +36,4 @@ Improved forecast reliability by X%.
 
 Full implementation available here:
 
-👉 https://github.com/tuusuario/retail-demand-forecasting
+👉 https://github.com/miguel-saldana/retail-demand-forecasting
