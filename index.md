@@ -17,58 +17,48 @@ This repository contains end-to-end analytical projects developed using PostgreS
 
 ---
 
-## 📂 Core Projects
+## 📂 Projects
 
-### 01 — Inventory Optimization & Stockout Analysis
-Design of inventory KPI framework and performance monitoring system.
+### 🔹 Retail Demand Forecasting
 
-Scope:
-- Relational data modeling (sales, stock, replenishment)
-- Inventory turnover calculation
-- Stockout rate analysis
-- Service level measurement
-- Executive dashboard (Power BI)
+End-to-end demand forecasting project using SQL + Python + Power BI.
 
-Status: ⚙️ In development
+- Data modeling
+- Time-series analysis
+- Inventory KPI impact
+- Executive dashboard
 
----
-
-### 02 — Demand Forecasting & Replenishment Strategy
-Time-series preparation and forecast performance evaluation.
-
-Scope:
-- SQL historical data preparation
-- Forecast accuracy metrics (MAPE)
-- Reorder point logic
-- Python-based analysis
-- Business impact simulation
+👉 [View Project](projects/retail-demand-forecasting.md)
 
 Status: ⚙️ In development
 
 ---
 
-### 03 — Customer Retention & Churn Analysis
-Cohort-based retention analysis and revenue performance evaluation.
+### 🔹 Inventory Optimization Model
 
-Scope:
-- Customer segmentation logic
-- Retention rate calculation
-- Purchase frequency analysis
-- CLV estimation
-- KPI dashboard
+Safety stock calculation and stock-out risk analysis.
+
+👉 [View Project](projects/inventory-optimization.md)
 
 Status: ⚙️ In development
 
 ---
 
-### 04 — End-to-End Supply Chain Performance Dashboard
-Integrated KPI monitoring across demand, inventory, supplier, and logistics performance.
+### 🔹 Supplier Performance Analysis
 
-Scope:
-- Cross-functional KPI definition
-- Multi-table SQL modeling
-- Performance tracking system
-- Executive reporting structure
+Supplier reliability, lead time variability and OTIF KPI system.
+
+👉 [View Project](projects/supplier-performance.md)
+
+Status: ⚙️ In development
+
+---
+
+### 🔹 Executive KPI System
+
+Design of a retail KPI framework for decision-making.
+
+👉 [View Project](projects/executive-kpi-system.md)
 
 Status: ⚙️ In development
 
