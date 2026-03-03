@@ -3,7 +3,7 @@
 
 ---
 
-## Overview
+## 🧭 Overview
 
 Data Analyst specialized in KPI system design, performance measurement, and business decision support within retail and supply chain environments.
 
@@ -17,7 +17,7 @@ This repository contains end-to-end analytical projects developed using PostgreS
 
 ---
 
-## Core Projects
+## 📂 Core Projects
 
 ### 01 — Inventory Optimization & Stockout Analysis
 Design of inventory KPI framework and performance monitoring system.
@@ -29,7 +29,7 @@ Scope:
 - Service level measurement
 - Executive dashboard (Power BI)
 
-Status: In development
+Status: ⚙️ In development
 
 ---
 
@@ -43,7 +43,7 @@ Scope:
 - Python-based analysis
 - Business impact simulation
 
-Status: In development
+Status: ⚙️ In development
 
 ---
 
@@ -57,7 +57,7 @@ Scope:
 - CLV estimation
 - KPI dashboard
 
-Status: In development
+Status: ⚙️ In development
 
 ---
 
@@ -70,11 +70,11 @@ Scope:
 - Performance tracking system
 - Executive reporting structure
 
-Status: In development
+Status: ⚙️ In development
 
 ---
 
-## Technical Stack
+## 🛠 Technical Stack
 
 **Database**
 - PostgreSQL
