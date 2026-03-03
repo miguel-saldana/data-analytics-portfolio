@@ -91,12 +91,13 @@ Status: ⚙️ In development
 
 ---
 
-Based in Milan, Italy  
-Open to Data Analyst opportunities
-
----
-
 ## 📫 Contact
 
 miguel.saldana.d@gmail.com
+
 www.miguelsaldana.it
+
+
+Based in Milan, Italy
+
+Open to Data Analyst opportunities
