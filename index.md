@@ -3,7 +3,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 Data Analyst specialized in KPI system design, performance measurement, and business decision support within retail and supply chain environments.
 
@@ -17,7 +17,7 @@ This repository contains end-to-end analytical projects developed using PostgreS
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🔹 Retail Demand Forecasting
 
@@ -30,7 +30,7 @@ End-to-end demand forecasting project using SQL + Python + Power BI.
 
 👉 [View Project](projects/retail-demand-forecasting.md)
 
-Status: ⚙️ In development
+Status: In development
 
 ---
 
@@ -40,7 +40,7 @@ Safety stock calculation and stock-out risk analysis.
 
 👉 [View Project](projects/inventory-optimization.md)
 
-Status: ⚙️ In development
+Status: In development
 
 ---
 
@@ -50,7 +50,7 @@ Supplier reliability, lead time variability and OTIF KPI system.
 
 👉 [View Project](projects/supplier-performance.md)
 
-Status: ⚙️ In development
+Status: In development
 
 ---
 
@@ -60,11 +60,11 @@ Design of a retail KPI framework for decision-making.
 
 👉 [View Project](projects/executive-kpi-system.md)
 
-Status: ⚙️ In development
+Status: In development
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 **Database**
 - PostgreSQL
