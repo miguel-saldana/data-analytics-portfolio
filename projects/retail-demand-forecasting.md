@@ -31,3 +31,9 @@ Explain star schema here.
 
 Reduced stock-out rate by X%.
 Improved forecast reliability by X%.
+
+## Technical Repository
+
+Full implementation available here:
+
+👉 https://github.com/tuusuario/retail-demand-forecasting
