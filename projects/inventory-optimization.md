@@ -4,4 +4,4 @@
 
 Full implementation available here:
 
-👉 https://github.com/tuusuario/inventory-optimization
+👉 https://github.com/miguel-saldana/inventory-optimization
