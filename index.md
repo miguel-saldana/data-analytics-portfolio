@@ -1,4 +1,4 @@
-# Miguel Saldana  
+# MIGUEL SALDANA 
 ### Data Analyst | Strategic KPIs & Performance Analytics  
 
 ---
@@ -19,7 +19,17 @@ This repository contains end-to-end analytical projects developed using PostgreS
 
 ## Projects
 
-### 🔹 Retail Demand Forecasting
+### 🔹 Inventory Optimization & Stockout Analysis
+
+Safety stock calculation and stock-out risk analysis.
+
+👉 [View Project](projects/inventory-optimization.md)
+
+Status: In development
+
+---
+
+### 🔹 Demand forecasting & replenishment strategy
 
 End-to-end demand forecasting project using SQL + Python + Power BI.
 
@@ -34,17 +44,7 @@ Status: In development
 
 ---
 
-### 🔹 Inventory Optimization Model
-
-Safety stock calculation and stock-out risk analysis.
-
-👉 [View Project](projects/inventory-optimization.md)
-
-Status: In development
-
----
-
-### 🔹 Supply chain dashboard
+### 🔹 Supply Chain Dashboard
 
 Supplier reliability, lead time variability and OTIF KPI system.
 
