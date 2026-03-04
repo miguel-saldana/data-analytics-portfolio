@@ -4,4 +4,4 @@
 
 Full implementation available here:
 
-👉 https://github.com/tuusuario/customer-churn-analysis
+👉 https://github.com/miguel-saldana/customer-churn-analysis
