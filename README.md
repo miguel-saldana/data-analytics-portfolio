@@ -7,6 +7,7 @@ This repository contains the source files for my technical portfolio hosted via 
 - index.md → Main portfolio page
 - projects/ → Individual project descriptions
 - assets/ → Images and visual materials
+- reports/ → Reports in .pdf format per project (if necessary)
 
 Note: Each project has an individual repository where I host SQL queries, Python code, and datasets.
 
