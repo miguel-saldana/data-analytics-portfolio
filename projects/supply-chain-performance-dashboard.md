@@ -16,4 +16,4 @@ NO contiene:
 
 Full implementation available here:
 
-👉 https://github.com/miguel-saldana/supplier-performance
+👉 https://github.com/miguel-saldana/supply-chain-performance-dashboard
