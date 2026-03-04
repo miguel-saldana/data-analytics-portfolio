@@ -44,21 +44,21 @@ Status: In development
 
 ---
 
-### 🔹 Supplier Performance Analysis
+### 🔹 Supply chain dashboard
 
 Supplier reliability, lead time variability and OTIF KPI system.
 
-👉 [View Project](projects/supplier-performance.md)
+👉 [View Project](projects/supply-chain-performance-dashboard.md)
 
 Status: In development
 
 ---
 
-### 🔹 Executive KPI System
+### 🔹 Churn & Customer Retention Analysis
 
-Design of a retail KPI framework for decision-making.
+End-to-end churn and customer retention analysis focused on identifying at-risk segments, quantifying revenue impact, and designing data-driven retention strategies to improve customer lifetime value and reduce attrition.
 
-👉 [View Project](projects/executive-kpi-system.md)
+👉 [View Project](projects/customer-churn-analysis.md)
 
 Status: In development
 
