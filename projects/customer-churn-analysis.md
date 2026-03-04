@@ -4,4 +4,4 @@
 
 Full implementation available here:
 
-👉 https://github.com/tuusuario/executive-kpi-system
+👉 https://github.com/tuusuario/customer-churn-analysis
