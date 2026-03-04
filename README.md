@@ -8,6 +8,8 @@ This repository contains the source files for my technical portfolio hosted via 
 - projects/ → Individual project descriptions
 - assets/ → Images and visual materials
 
+Note: Each project has an individual repository where I host SQL queries, Python code, and datasets.
+
 ## Focus
 
 The portfolio highlights end-to-end analytical projects centered on:
