@@ -19,6 +19,16 @@ This repository contains end-to-end analytical projects developed using PostgreS
 
 ## Projects
 
+### 🔹 Railway Signaling Failure Analysis
+
+Railway signaling failure analysis using Python and pandas.
+
+👉 [View Project](projects/railway-signaling-failure-analysis.md)
+
+Status: ok
+
+---
+
 ### 🔹 Inventory Optimization & Stockout Analysis
 
 Safety stock calculation and stock-out risk analysis.
