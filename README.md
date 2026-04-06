@@ -1,26 +1,52 @@
-# Miguel Saldana – Data Analyst Portfolio
+# Miguel Saldana – Technical Data Analyst Portfolio
 
-This repository contains the source files for my technical portfolio hosted via GitHub Pages.
+This repository contains the source files for my technical portfolio, focused on data analysis applied to engineering and urban transport systems, and published via GitHub Pages.
+
+---
 
 ## Structure
 
-- index.md → Main portfolio page
-- projects/ → Individual project descriptions
-- assets/ → Images and visual materials
-- reports/ → Reports in .pdf format per project (if necessary)
+* `index.md` → Main portfolio page
+* `projects/` → Individual project documentation (problem, approach, results)
+* `assets/` → Images, diagrams, and visual materials
+* `reports/` → Project reports in PDF format (when applicable)
 
-Note: Each project has an individual repository where I host SQL scrips, Python code, .pibx and datasets.
+Each project is supported by a dedicated repository containing:
+
+* SQL scripts
+* Python analysis workflows
+* Power BI dashboards (.pbix)
+* Engineering-oriented datasets
+
+---
 
 ## Focus
 
-The portfolio highlights end-to-end analytical projects centered on:
+This portfolio showcases end-to-end analytical projects applied to real-world engineering contexts, with a particular focus on railway infrastructure and urban transport systems.
 
-- KPI system design
-- Retail & Supply Chain performance analysis
-- SQL-based data modeling
-- Python data analysis
-- Executive dashboard development (Power BI)
+Core areas:
+
+* KPI system design for infrastructure and maintenance performance
+* Railway operations and maintenance analysis
+* SQL-based data modeling for engineering datasets
+* Python-based data analysis (pandas, numpy)
+* Performance monitoring and failure analysis
+* Technical dashboard development (Power BI)
+
+---
+
+## Approach
+
+Projects follow a structured analytical workflow:
+
+1. Problem definition (engineering context)
+2. Data modeling (PostgreSQL / SQL)
+3. Data analysis (Python / pandas)
+4. KPI definition and validation
+5. Visualization and reporting (Power BI)
+
+---
 
 ## Deployment
 
-Hosted using GitHub Pages.
+This portfolio is deployed using GitHub Pages and serves as a central hub for my work as a Technical Data Analyst in engineering and infrastructure environments.
