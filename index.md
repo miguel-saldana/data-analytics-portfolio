@@ -29,46 +29,33 @@ Status: ok
 
 ---
 
-### 🔹 Inventory Optimization & Stockout Analysis
+### 🔹 Project2
 
-Safety stock calculation and stock-out risk analysis.
+description of project 2
 
-👉 [View Project](projects/inventory-optimization.md)
-
-Status: In development
-
----
-
-### 🔹 Demand forecasting & replenishment strategy
-
-End-to-end demand forecasting project using SQL + Python + Power BI.
-
-- Data modeling
-- Time-series analysis
-- Inventory KPI impact
-- Executive dashboard
-
-👉 [View Project](projects/retail-demand-forecasting.md)
+👉 [View Project](projects/project2.md)
 
 Status: In development
 
 ---
 
-### 🔹 Supply Chain Dashboard
 
-Supplier reliability, lead time variability and OTIF KPI system.
+### 🔹 Project3
 
-👉 [View Project](projects/supply-chain-performance-dashboard.md)
+description of project 3
+
+👉 [View Project](projects/project3.md)
 
 Status: In development
 
 ---
 
-### 🔹 Churn & Customer Retention Analysis
 
-End-to-end churn and customer retention analysis focused on identifying at-risk segments, quantifying revenue impact, and designing data-driven retention strategies to improve customer lifetime value and reduce attrition.
+### 🔹 Project4
 
-👉 [View Project](projects/customer-churn-analysis.md)
+description of project 4
+
+👉 [View Project](projects/project4.md)
 
 Status: In development
 
